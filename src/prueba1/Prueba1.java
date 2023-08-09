@@ -8,7 +8,7 @@ public class Prueba1 {
        
         
         System.out.println("Hola mundo ");
-        System.out.println("Hola soy milton");
+        System.out.println("Hola como estan soy Milton Tarqui");
     }
     
 }
